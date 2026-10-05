@@ -1,0 +1,16 @@
+Database Name: librarygh
+Recommended PHP Version: 5.6.3
+
+Member Login
+------------
+
+Users can register as members. Membership requests must be verified
+through the Librarian account before access is granted.
+
+Librarian Login
+---------------
+
+For security reasons, librarian credentials are not included in this repository.
+
+Configure your own librarian account in the local database before running
+the application.
